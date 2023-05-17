@@ -1,0 +1,8 @@
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\bin\Debug\попытка намбер дохуя.exe.config
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\bin\Debug\попытка намбер дохуя.exe
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\bin\Debug\попытка намбер дохуя.pdb
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\obj\Debug\попытка намбер дохуя.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\obj\Debug\попытка намбер дохуя.csproj.SuggestedBindingRedirects.cache
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\obj\Debug\попытка намбер дохуя.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\obj\Debug\попытка намбер дохуя.exe
+C:\Users\Татьяна\Downloads\попытка намбер дохуя\попытка намбер дохуя\obj\Debug\попытка намбер дохуя.pdb
